@@ -1,0 +1,4 @@
+com\demo\controller\DetailsController.class
+com\demo\pojo\Customer.class
+com\demo\Application.class
+com\demo\controller\CustomerController.class

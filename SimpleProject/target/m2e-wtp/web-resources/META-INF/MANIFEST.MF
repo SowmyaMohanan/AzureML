@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SimpleProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hackuser1
+Implementation-Vendor-Id: SimpleProject
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/SimpleProjec
+ t/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
